@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventBus</string>
+    <string name="fragment_write">Tulis data untuk dikirim ke Activity</string>
+    <string name="fragment_write_hint">Tulis data...</string>
+    <string name="fragment_hit_button">Kirim Data</string>
+    <string name="fragment_receive">Respon Dari Activity:</string>
+    <string name="main_receive">Event Data Dari Fragment:</string>
+</resources>
